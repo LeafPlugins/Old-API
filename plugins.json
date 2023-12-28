@@ -1,0 +1,14 @@
+{
+  "LeafPlugins": "false;false;false",
+  "LeafTags": "false;false;false",
+  "LeafPunish": "false;false;true",
+  "LeafDiscord": "false;false;false",
+  "LeafMedals": "false;false;true",
+  "LeafCombatLog": "false;false;false",
+  "LeafScore": "false;false;false",
+  "LeafLobby": "false;true;true",
+  "LeafStatsView": "false;false;true",
+  "LeafHideLog": "false;false;false",
+  "LeafAutoPix": "false;false;false",
+  "LeafKits": "false;true;true"
+}
