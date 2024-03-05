@@ -4,7 +4,7 @@
   "LeafPunish": "false;false;true",
   "LeafDiscord": "false;false;false",
   "LeafMedals": "false;false;true",
-  "LeafCombatLog": "false;false;true",
+  "LeafCombatLog": "false;true;true",
   "LeafScore": "false;false;false",
   "LeafLobby": "false;true;true",
   "LeafStatsView": "false;false;true",
